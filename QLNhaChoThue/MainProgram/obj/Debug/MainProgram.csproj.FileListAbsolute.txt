@@ -1,0 +1,13 @@
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\bin\Debug\MainProgram.exe.config
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\bin\Debug\MainProgram.exe
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\bin\Debug\MainProgram.pdb
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.csprojResolveAssemblyReference.cache
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.Forms.DangKyKhach.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.Forms.Login.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.MainForm.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.Properties.Resources.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.UCs.ucAdmin.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.UCs.ucStart.resources
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.csproj.GenerateResource.Cache
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.exe
+C:\Users\NGOCMINH\Documents\Visual Studio 2015\Projects\QLNhaChoThue\MainProgram\obj\Debug\MainProgram.pdb
